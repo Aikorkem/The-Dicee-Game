@@ -1,3 +1,4 @@
 The Dicee Challenge Website 
 
-- project built and designed using HTML, CSS and JavaScript
+![image](https://user-images.githubusercontent.com/96110506/190852460-5e1d7f7b-ab5a-434d-a09f-5ffbb10f216c.png)
+
